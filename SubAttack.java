@@ -1,5 +1,5 @@
 import java.util.*;
-
+//asdfasdf
 public class SubAttack {
     static int bombX, bombY;
     static final int worldWidth = 300;
